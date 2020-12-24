@@ -1,8 +1,6 @@
 /*  
- 12 bit ADC
- full range 4095
- 8 bit DAC1 DAC2
- full range 255
+ I2C Scanner
+ runs through addresses on the I2C bus to see what is attached
  
  #########################################################################
  ###### DON'T FORGET TO UPDATE THE User_Setup.h FILE IN THE LIBRARY ######
